@@ -1,0 +1,20 @@
+.footer li h3{
+	color:#615F64;
+}
+.footer li{
+	list-style-type:none;
+	color:#0171C5;
+}
+.bei span{
+	position: relative;
+	padding-left:60px; 
+}
+.bei span i{
+	display: inline-block;
+	width:31px;
+	height: 20px;
+	background:url(../img/logo.png) 0 0px no-repeat;
+	position:absolute;
+	top:0;
+	left:10px;
+}
